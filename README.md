@@ -1,5 +1,5 @@
 # BPR-ONC Analysis (Endeavour Segment)
-This study is going to be published by Lingchao He, Meng Wei, GuangyuXu. 
+This study is going to be published by Lingchao He, Meng Wei, Guangyu Xu. 
 
 Tools and workflows for analyzing **Ocean Networks Canada (ONC) bottom pressure recorder (BPR)** time series at the Endeavour Segment (Juan de Fuca Ridge), building **differential pressure (ΔP)** products to suppress common-mode oceanographic variability, and comparing ΔP with **seismicity**, **near-bottom currents**, and **temperature** to evaluate candidate inflation–deflation transients.
 
